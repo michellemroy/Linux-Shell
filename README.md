@@ -51,6 +51,7 @@ Command is : $`day`
 ![Screenshot](day.PNG)
 
 
-
+5.)cls : clear
+Command is : $`cls`
 
 
